@@ -1,5 +1,15 @@
 # 자바 코딩의 기술 정리
 
+## package structure
+- general | 1장, 2장
+- comments | 3장
+- naming | 4장
+- error_handling | 5장
+- testing | 6장
+- design | 7장
+- lambdas | 8장
+- realworld | 9장
+
 ## charpter1 우선 정리부터
 - [x] 1.1 쓸모없는 비교 피하기
 - [X] 1.2 부정 피하기
